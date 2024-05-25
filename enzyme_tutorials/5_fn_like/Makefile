@@ -1,4 +1,4 @@
-all: simple_functions.o
+all: fn_like.o
 
 clean:
 	rm -rf *.o tmp
